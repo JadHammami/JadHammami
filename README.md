@@ -26,14 +26,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-* 🔐 [E-commerce Admin Panel (Laravel)](#) – Admin system with products, brands, categories & coupons management.
-* 🧠 [Integrated Management System with AI](#) – Final year project combining AI with enterprise management.
-* 📡 [MQTT Smart IoT Project](#) – Real-time communication system using Paho MQTT.
-* 🌍 [Portfolio Website](#) – Personal site to showcase my work (coming soon).
-
----
 
 ## 📜 Certifications
 
